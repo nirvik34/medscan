@@ -20,6 +20,8 @@ __pycache__/
 # PyTorch model checkpoints (optional)
 *.pth
 *.pt
-
+!/backend/models/
+!/backend/models/**/*.pth
+!/backend/models/**/*.pt
 # Jupyter checkpoints
 .ipynb_checkpoints/
