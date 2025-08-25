@@ -57,9 +57,10 @@ Two example images are included in `result-images/` for quick reference:
 ### Detection Output
 Baseline, New Scan, and Detected Changes:
 
-![Comparison Example](result-images/example_comparison.png)
+![Comparison Example](result-images/image.png)
 
 ### Web UI Screenshot
 
-![UI Screenshot](result-images/ui_screenshot.png)
+![UI Screenshot](result-images/image1.png)
+!![UI Screenshot](result-images/image2.png)
 
