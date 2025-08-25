@@ -1,0 +1,25 @@
+# Ignore virtual environment
+.venv/
+venv/
+# Ignore data contents but keep the folder (ignore files inside data/)
+/data/*
+
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# PyTorch model checkpoints (optional)
+*.pth
+*.pt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
