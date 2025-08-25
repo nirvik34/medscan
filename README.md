@@ -52,5 +52,14 @@ Two example images are included in `result-images/` for quick reference:
 - `result-images/example_comparison.png` — left: baseline, center: new scan, right: detected changes mask (thresholded diff)
 - `result-images/ui_screenshot.png` — screenshot of the running Gradio UI showing modality, prediction, and confidence
 
-If you generated your own outputs, drop them into `result-images/` and they will be visible in the repo for reviewers.
+
+
+### Detection Output
+Baseline, New Scan, and Detected Changes:
+
+![Comparison Example](result-images/example_comparison.png)
+
+### Web UI Screenshot
+
+![UI Screenshot](result-images/ui_screenshot.png)
 
